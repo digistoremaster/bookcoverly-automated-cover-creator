@@ -1,4 +1,3 @@
-
 # BookCoverly – Automated Print-Ready Book Cover Generator for Self-Publishers
 
 Writing a book is a monumental achievement. But for many indie authors, self-publishers, and technical writers, the real headache begins *after* the manuscript is finished: **Formatting the print cover.**
