@@ -1,5 +1,6 @@
 # BookCoverly – Automated Print-Ready Book Cover Generator for Self-Publishers
 
+
 Writing a book is a monumental achievement. But for many indie authors, self-publishers, and technical writers, the real headache begins *after* the manuscript is finished: **Formatting the print cover.**
 
 If you have ever uploaded a paperback cover to **Amazon KDP, IngramSpark, or Lulu**, only to receive the dreaded rejection email—*"Cover Rejected: Incorrect Bleed / Spine Width Misalignment"*—you are not alone.
